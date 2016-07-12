@@ -21,6 +21,7 @@ http://virtualenvwrapper.readthedocs.io/en/latest/
 * brew로 깔아서 그렇대
 
 * python3.x 쓸 경우 pip3로 깔아야된다는 말이 있음
+
 5-1) (testEnv) Mac-mini:local user$ vi ~/.bash_profile
 
    export WORKON_HOME=/Users/user/Documents/Dev/temp/virtualenv
